@@ -1,0 +1,19 @@
+{
+  "name": "@aboubacar3012/hello-world-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aboubacar3012/hello-world-npm.git"
+  },
+  "author": "Aboubacar DIALLO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aboubacar3012/hello-world-npm/issues"
+  },
+  "homepage": "https://github.com/aboubacar3012/hello-world-npm#readme"
+}
