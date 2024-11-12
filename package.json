@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aboubacar3012/hello-world-npm/issues"
   },
-  "homepage": "https://github.com/aboubacar3012/hello-world-npm#readme"
+  "homepage": "https://github.com/aboubacar3012/hello-world-npm#readme",
+  "publishConfig": {
+    "@aboubacar3012:registry": "https://npm.pkg.github.com"
+  }
 }
